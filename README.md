@@ -1,5 +1,12 @@
 # 💫 About Me:
-👋 Hey there, I'm Billy!<br><br>💻 I'm currently working on:<br>Building scalable web applications using ReactJS and SpringBoot.<br>Enhancing my football match analysis app with improved machine learning models<br>Exploring Docker and Kubernetes for containerized application deployment<br>Contributing to open source projects. <br><br>🤝 I'm looking to collaborate on:<br>Open-source projects involving machine learning, web development, or cloud technologies<br>Efficient API design and backend optimization for high-performance applications<br><br>🔍 I'm looking for help with:<br>Best practices in Docker and Kubernetes for deploying microservices<br>Improving video processing accuracy in my football analysis app<br><br>📚 I'm currently learning:<br>AWS & Cloud computing for scalable and resilient applications<br>Advanced system design principles for high-load applications<br><br>💡 Ask me about:<br>Web development (ReactJS, C#)<br>Machine learning projects (computer vision, model training)<br>Containerization & DevOps (Docker, Kubernetes)<br><br>🎯 Fun Fact: <br>When I am not coding, I watch football. Feel free to chat with me about your thoughts on recent matches!
+## 👋 Hi, I'm Billy!  
+
+I am a software developer with experience in **web development, machine learning, and UI/UX design**. I specialize in **React, Java, JavaScript, TypeScript, C++, and Python**, with a strong foundation in **full-stack and front-end development**. My work includes **building scalable applications, integrating machine learning models, and optimizing user experiences**.  
+
+I have collaborated on **hackathon-winning projects**, developed **data-driven applications**, and are currently adapting technologies like **Docker, Kubernetes, and cloud services** to deploy robust solutions. Currently, I am expanding my expertise in **cloud computing, data analysis, and advanced software architecture**.  
+
+I am always eager to **collaborate on innovative projects** and explore new technologies. Feel free to explore my repositories or connect with me to discuss opportunities.  
+
 
 
 ## 🌐 Socials:
