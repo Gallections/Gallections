@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## 👋 Hi, I'm Billy!  
 
-I am a software developer with experience in **web development, full-stack development, and UI/UX design**. I specialize in **React, Java, JavaScript, TypeScript, C++, and Python**, with a strong foundation in **full-stack and front-end development**. My work includes **building scalable applications, integrating machine learning models, and optimizing user experiences**.  
+I am a software developer with experience in **web development, full-stack development, game development and UI/UX design**. I specialize in **React, Java, JavaScript, TypeScript, C++, and Python**, with a strong foundation in **full-stack and front-end development**. My work includes **building scalable applications, integrating machine learning models, and optimizing user experiences**.  
 
 I have collaborated on **hackathon-winning projects**, developed **data-driven applications**, and are currently adapting technologies like **Docker, Kubernetes, and cloud services** to deploy robust solutions. Currently, I am expanding my expertise in **cloud computing, data analysis, and machine learning**.  
 
