@@ -1,12 +1,5 @@
-# 💫 About Me:
-## 👋 Hi, I'm Billy!  
-
-I am a software developer with experience in **web development, full-stack development, game development and UI/UX design**. I specialize in **React, Java, JavaScript, TypeScript, C++, and Python**, with a strong foundation in **full-stack and front-end development**. My work includes **building scalable applications, integrating machine learning models, and optimizing user experiences**.  
-
-I have collaborated on **hackathon-winning projects**, developed **data-driven applications**, and are currently adapting technologies like **Docker, Kubernetes, and cloud services** to deploy robust solutions. Currently, I am expanding my expertise in **cloud computing, data analysis, and machine learning**.  
-
-I am always eager to **collaborate on innovative projects** and explore new technologies. Feel free to explore my repositories or connect with me to discuss opportunities.  
-
+# <img width="50" height="50" justify-self ="center" alt="image" src="https://github.com/user-attachments/assets/472835e7-11ac-4922-9262-083609d3b0c8" />  About Me:
+Welcome to my Github! This is Billy - a software engineer and emerging technologist passionate about building creative, visual, and meaningful applications! I develop interactive experiences using **Unity** and **Unreal Engine**, and craft robust software with **Python**, **C++**, **TypeScript**, **JavaScript**, and **Java**. My interests lie at the intersection of interactive technologies, machine learning, and cloud computing, where I continually push my skills to design innovative, human-centered solutions.
 
 # 💻 Tech Stack:
 ## Languages
