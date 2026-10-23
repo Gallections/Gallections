@@ -1,5 +1,5 @@
 # <img width="50" height="50" justify-self ="center" alt="image" src="https://github.com/user-attachments/assets/472835e7-11ac-4922-9262-083609d3b0c8" />  About Me:
-Welcome to my Github! This is Billy - a software engineer and emerging technologist passionate about building creative, visual, and meaningful applications! I develop interactive experiences using **Unity** and **Unreal Engine**, and craft robust software with **Python**, **C++**, **TypeScript**, **JavaScript**, and **Java**. My interests lie at the intersection of interactive technologies, machine learning, and cloud computing, where I continually push my skills to design innovative, human-centered solutions.
+Welcome to my Github! This is Billy - a software engineer and emerging technologist passionate about building creative, visual, and meaningful applications! I develop interactive experiences using **Unity** and **Unreal Engine**, and craft robust software with **Python**, **C++**, **TypeScript**, **JavaScript**, and **Java**. My interests lie at the intersection of interactive technologies, machine learning, Robotics, and gaming services, where I continually push my skills to design innovative, human-centered solutions.
 
 # 💻 Tech Stack:
 ## Languages
